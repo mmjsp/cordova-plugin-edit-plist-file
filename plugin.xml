@@ -40,7 +40,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile_Store_MUI/img/MMMobile_Store_MUI.tle</string>
+                  <string>MMMobile/tle</string>
                 </array>
               </dict>
             </dict>
@@ -54,7 +54,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile_Store_MUI/img/MMMobile_Store_MUI.sew</string>
+                  <string>MMMobile/sew</string>
                 </array>
               </dict>
             </dict>
@@ -68,7 +68,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile_Store_MUI/img/MMMobile_Store_MUI.pa</string>
+                  <string>MMMobile/pa</string>
                 </array>
               </dict>
             </dict>
@@ -82,7 +82,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile_Store_MUI/img/MMMobile_Store_MUI.haymans</string>
+                  <string>MMMobile/haymans</string>
                 </array>
               </dict>
             </dict>
@@ -96,7 +96,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile_Store_MUI/img/MMMobile_Store_MUI.greentech</string>
+                  <string>MMMobile/greentech</string>
                 </array>
               </dict>
             </dict>
@@ -110,7 +110,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile_Store_MUI/img/MMMobile_Store_MUI.gowholesale</string>
+                  <string>MMMobile/gowholesale</string>
                 </array>
               </dict>
             </dict>  
@@ -124,7 +124,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile_Store_MUI/img/MMMobile_Store_MUI.ewm</string>
+                  <string>MMMobile/ewm</string>
                 </array>
               </dict>
             </dict> 
@@ -138,7 +138,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile_Store_MUI/img/MMMobile_Store_MUI.dw</string>
+                  <string>MMMobile/dw</string>
                 </array>
               </dict>
             </dict>
@@ -152,7 +152,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile_Store_MUI/img/MMMobile_Store_MUI.cetnaj</string>
+                  <string>MMMobile/cetnaj</string>
                 </array>
               </dict>
             </dict>
@@ -166,7 +166,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile_Store_MUI/img/MMMobile_Store_MUI.brookvale</string>
+                  <string>MMMobile/brookvale</string>
                 </array>
               </dict>
             </dict>
@@ -180,7 +180,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile_Store_MUI/img/MMMobile_Store_MUI.electricalmerchandising</string>
+                  <string>MMMobile/electricalmerchandising</string>
                 </array>
               </dict>
             </dict>
@@ -194,7 +194,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile_Store_MUI/img/MMMobile_Store_MUI.awm</string>
+                  <string>MMMobile/awm</string>
                 </array>
               </dict>
             </dict>
