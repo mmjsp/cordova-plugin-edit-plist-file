@@ -32,7 +32,7 @@
             <key>CFBundleAlternateIcons</key>
             <dict>
               <!-- The name you use in code -->
-              <key>wild</key>
+              <key>sew22</key>
               <dict>
                 <key>UIPrerenderedIcon</key>
                 <true/>
