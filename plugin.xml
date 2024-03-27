@@ -40,7 +40,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile/tle</string>
+                  <string>www/tle</string>
                 </array>
               </dict>
 			  
@@ -64,7 +64,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile/pa</string>
+                  <string>www/pa</string>
                 </array>
               </dict>
 			  
@@ -76,7 +76,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile/haymans</string>
+                  <string>www/haymans</string>
                 </array>
               </dict>
 			  
@@ -88,7 +88,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile/greentech</string>
+                  <string>www/greentech</string>
                 </array>
               </dict>
 			  
@@ -100,7 +100,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile/go</string>
+                  <string>www/go</string>
                 </array>
               </dict>
 			  
@@ -112,7 +112,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile/ewm</string>
+                  <string>www/ewm</string>
                 </array>
               </dict>
 			  
@@ -124,7 +124,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile/dw</string>
+                  <string>www/dw</string>
                 </array>
               </dict>
 			  
@@ -136,7 +136,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile/cetnaj</string>
+                  <string>www/cetnaj</string>
                 </array>
               </dict>
 			  
@@ -148,7 +148,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile/bed</string>
+                  <string>www/bed</string>
                 </array>
               </dict>
 			  
@@ -160,7 +160,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile/mm</string>
+                  <string>www/mm</string>
                 </array>
               </dict>
 			  
@@ -172,7 +172,7 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>MMMobile/awm</string>
+                  <string>www/awm</string>
                 </array>
               </dict>
 			  
