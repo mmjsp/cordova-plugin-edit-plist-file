@@ -61,7 +61,7 @@
 
             <dict>
               <!-- The name you use in code -->
-              <key>P&A</key>
+              <key>PA</key>
               <dict>
                 <key>UIPrerenderedIcon</key>
                 <true/>
@@ -131,7 +131,7 @@
 
             <dict>
               <!-- The name you use in code -->
-              <key>D&W</key>
+              <key>DW</key>
               <dict>
                 <key>UIPrerenderedIcon</key>
                 <true/>
