@@ -194,7 +194,8 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>www/tle</string>
+                  <string>www/tle-ipad</string>
+		  <string>www/tle-ipad-pro</string>
                 </array>
               </dict>
 			  
@@ -206,7 +207,8 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>www/sew</string>
+		  <string>www/sew-ipad</string>
+		  <string>www/sew-ipad-pro</string>
                 </array>
               </dict>
 			  
@@ -218,7 +220,8 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>www/pa</string>
+		  <string>www/pa-ipad</string>
+		  <string>www/pa-ipad-pro</string>
                 </array>
               </dict>
 			  
@@ -230,7 +233,8 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>www/haymans</string>
+		  <string>www/haymans-ipad</string>
+		  <string>www/haymans-ipad-pro</string>
                 </array>
               </dict>
 			  
@@ -242,7 +246,8 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>www/greentech</string>
+		  <string>www/greentech-ipad</string>
+		  <string>www/greentech-ipad-pro</string>
                 </array>
               </dict>
 			  
@@ -254,7 +259,8 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>www/go</string>
+		  <string>www/go-ipad</string>
+		  <string>www/go-ipad-pro</string>
                 </array>
               </dict>
 			  
@@ -266,7 +272,8 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>www/ewm</string>
+		  <string>www/ewm-ipad</string>
+		  <string>www/ewm-ipad-pro</string>
                 </array>
               </dict>
 			  
@@ -278,7 +285,8 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>www/dw</string>
+		  <string>www/dw-ipad</string>
+		  <string>www/dw-ipad-pro</string>
                 </array>
               </dict>
 			  
@@ -290,7 +298,8 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>www/cetnaj</string>
+		  <string>www/cetnaj-ipad</string>
+		  <string>www/cetnaj-ipad-pro</string>
                 </array>
               </dict>
 			  
@@ -302,7 +311,8 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>www/bed</string>
+		  <string>www/bed-ipad</string>
+		  <string>www/bed-ipad-pro</string>
                 </array>
               </dict>
 			  
@@ -314,7 +324,8 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>www/mm</string>
+		  <string>www/mm-ipad</string>
+		  <string>www/mm-ipad-pro</string>
                 </array>
               </dict>
 			  
@@ -326,7 +337,8 @@
                 <key>CFBundleIconFiles</key>
                 <array>
                   <!-- The actual filenames. Don't list the @2x/@3x files here, and you can use just the biggest one if you like -->
-                  <string>www/awm</string>
+		  <string>www/awm-ipad</string>
+		  <string>www/awm-ipad-pro</string>
                 </array>
               </dict>
 			  
